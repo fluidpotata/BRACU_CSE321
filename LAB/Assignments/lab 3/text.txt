@@ -1,0 +1,2 @@
+This is fprintf test
+This is fputs test
